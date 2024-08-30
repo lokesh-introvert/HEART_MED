@@ -1,1 +1,1 @@
-This project aims to predict the presence and severity of heart disease using a multi-class classification model. The model categorizes patients into different classes based on the severity of the disease, allowing for early detection and appropriate treatment.
+This project is dedicated to predicting various types of heart disease using machine learning. The goal is to categorize patients based on the type of heart disease they might have, enabling healthcare providers to diagnose and treat these conditions more effectively.
